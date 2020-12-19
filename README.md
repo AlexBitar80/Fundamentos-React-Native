@@ -2,9 +2,13 @@
 	<img src="https://user-images.githubusercontent.com/56983783/102695094-fce2f700-4203-11eb-9098-59e52f94572c.png" alt="GoMarketplace"/>
 </h3>
 
+</br>
+
 <p align="center">
   Desafio que se coinsistia em completar o código de uma aplicação mobile, o GoMarketplace uma aplicação de vendas que possui um carrinho de comprar e produtos que podem ser adicionados a ele, com as funcionalidades de adicionar e remover do carrinho fazendo a soma dos produtos e salvadno todos no storage.
 </p>
+
+</br>
 
 <p align="center">
   <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/AlexBitar80/Fundamentos-React-Native?style=social">
@@ -20,9 +24,7 @@
 
 <p align="center">
   <a href="#star-como-rodar">Como usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-
   <a href="#rocket-testes">Testes</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-
   <a href="#gear-tecnologias-usadas-neste-projeto">Tecnologias</a>
 </p>
 
