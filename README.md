@@ -45,7 +45,6 @@ O projeto está utilizando as seguintes tecnologias:
 -  [json-server](https://www.npmjs.com/package/json-server)
 -  [styled-components](https://styled-components.com/)
 -  [react-navigation](https://reactnavigation.org/)
--  [react-icons](https://react-icons.github.io/react-icons/)
 
 
 ## :rocket: Testes
