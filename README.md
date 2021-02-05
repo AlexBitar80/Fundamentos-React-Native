@@ -103,7 +103,7 @@ $ yarn ios || npm run ios
 $ yarn test || npm run test
 ```
 
-por padrão assim que o comando para rodar no emulador for iniciado ele ira abrir uma segundo aba do terminal com o Metro Bundler que serve para ficar monitorando e atualizando o app mobile, mas poder haver casos onde ele por padrão não irá abrir essa segunda aba, nesses casos basta rodar esses comandos abaixo
+por padrão assim que o comando para rodar no emulador for iniciado ele ira abrir uma segundo aba do terminal com o Metro Bundler que serve para ficar monitorando e atualizando o app mobile, mas pode haver casos onde ele por padrão não irá abrir essa segunda aba, nesses casos basta rodar esses comandos abaixo
 
 ```bash
   $ yarn start || npm run start
