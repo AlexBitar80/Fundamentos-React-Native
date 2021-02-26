@@ -79,7 +79,7 @@ Para esse desafio, temos os seguintes testes:
 
 ## :star: Como rodar
 
-Para clonar e rodar esse projeto você vai precisar do [Node](https://nodejs.org/en/) do [Yarn](https://yarnpkg.com/) do [Npm](https://www.npmjs.com/get-npm) e do [Git](https://git-scm.com/) instalado na rua máquina
+Para clonar e rodar esse projeto você vai precisar do [Node](https://nodejs.org/en/) do [Yarn](https://yarnpkg.com/) do [Npm](https://www.npmjs.com/get-npm) e do [Git](https://git-scm.com/) instalado na sua máquina
 
 
 
